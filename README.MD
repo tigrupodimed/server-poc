@@ -1,6 +1,13 @@
 #SERVER POC
 
-RUN project
+### Install
+
+```
+npm install install
+```
+
+
+### RUN project
 
 ```
 ./node_modules/.bin/ts-node -P ./server.tsconfig.json ./server.ts
